@@ -1,0 +1,30 @@
+{
+    "products": [
+        {
+           "productId": "Sauce-kabs-Onesie",
+            "productName": "Sauce Labs Onesie"
+        },
+        {
+            "productId": "Sauce-labs-bike-light",
+            "productName": "Sauce Labs Bike Light"     
+        },
+        {
+            "productId": "Sauce-labs-fleece-jacket",
+            "productName": "Sauce Labs Fleece Jacket"     
+        },
+        {
+            "productId": "Sauce-labs-backpack",
+            "productName": "Sauce Labs Backpack"     
+        },
+        {
+            "productId": "Sauce-labs-bolt-t-shirt",
+            "productName": "Sauce Labs Bolt T-Shirt"     
+        },
+     
+        {
+            "productId": "Test.allthethings()-t-shirt-(red)",
+            "productName": "Test.allthethings() T-Shirt (Red)"     
+        }
+    
+    ]
+}

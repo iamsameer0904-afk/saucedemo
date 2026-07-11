@@ -1,0 +1,15 @@
+{
+"sortValue": "lohi",
+"primaryProductId": "sauce-labs-onesie",
+"secondaryProductId" : "sauce-labs-bike-light",
+"removeProductId" : "sauce-labs-bike-light",
+
+"customer":
+{
+    "firstName": "john",
+    "lastName": "doe",
+    "postalCode": "600001"
+}
+
+
+}

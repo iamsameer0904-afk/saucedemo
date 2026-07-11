@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","8728","@Sanity @smoke login with valid credentials","chromium","2026-07-11","passed","2026-07-11","","Login.spec.ts","",""
+"","8708","@Sanity @smoke login with Invalid credentials","chromium","2026-07-11","passed","2026-07-11","","Login.spec.ts","",""
+"","9462","@regression purchase flow","chromium","2026-07-11","passed","2026-07-11","","SauceDemo.spec.ts","",""
