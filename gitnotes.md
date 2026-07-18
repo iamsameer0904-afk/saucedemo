@@ -42,4 +42,21 @@ Steps:
 
 for checking the installation in cmd prompt
  git --version
-    
+
+git init
+git config --global user.name "name"
+git config --global user.email "email"
+
+git add -A (adding all files)
+git add filename ( adding specific filename)
+git add folderName ( adding specific folderName)
+
+git commit - m "commit message"
+
+git remote add origin " github url"
+
+git push origin master
+
+git pull origin master
+
+rm -rf
