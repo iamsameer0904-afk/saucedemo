@@ -24,7 +24,7 @@ export class LogoutPage {
 
     async logout()
     {
-       
+       //logput
         await this.btnLogout.click();
     }
 
